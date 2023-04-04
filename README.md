@@ -12,4 +12,4 @@ I'm just trying out stuff and upload it to GitHub so I can access it from multip
 You can write a mail to my gaming address: [heimatbrot@outlook.com]
 
 #### FYI
-Don't take my code on this repo to serios. I'm just the type of "learning by doing" so it doesn't look good or is beautiful code here. But it helps me to learn more and thats my goal.
+Don't take my code on this repo to serious. I'm just the type of "learning by doing" so it doesn't look good or is beautiful code here. But it helps me to learn more and thats my goal.
