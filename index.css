@@ -1,14 +1,25 @@
 body {
     text-align: center;
+    font-size: large;
     padding: 5rem;
-    background-color: hsl(116, 100%, 97%);
+    background-color: #f4fff3;
   }
+
+.mainbox {
+    background-color: #004a00;
+    padding: 10px;
+    border-radius: 3rem;
+    border: 1rem solid #f4fff3;
+    color: #f4fff3;
+    font-size: x-large;
+}
 
 .subbox {
     background-color: #10490c40;
     padding: 10px;
     border-radius: 3rem;
-    border: 1rem solid hsl(116, 100%, 97%);
+    border: 1rem solid #f4fff3;
+    color: #004a00;
     
 }
 
